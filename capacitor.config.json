@@ -1,0 +1,6 @@
+{
+  "appId": "com.victoria.aistockagent",
+  "appName": "AI Stock Agent",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
